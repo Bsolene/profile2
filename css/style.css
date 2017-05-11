@@ -1,0 +1,35 @@
+@import url("components/profile_header.css");
+@import url("components/avatar.css");
+@import url("components/tab.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3 {
+  font-family: 'Varela', sans-serif;
+}
+a {
+  text-decoration: none;
+}
+.text-center {
+  text-align: center;
+}
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.gif{
+/* background-color: rgba(249, 226, 155, 0.5);*/
+ border-radius: 20px;
+
+}
+
+
+
+
+
+
